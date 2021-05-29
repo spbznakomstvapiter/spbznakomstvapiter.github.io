@@ -1,3 +1,12 @@
 # Полезные ссылки для веб-разработчика
-Набор самых необходимых программ, сервисов и ссылок для работы. Вы можете дополнять репозиторий полезными ссылками через Pull Requests
-Посмотреть полную версию можно по ссылке: https://aislam23.github.io/links
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/c0ldlimit/vimcolors.git
+git push -u origin master
+ 
+# Push an existing repository from the command line
+ 
+git remote add origin https://github.com/c0ldlimit/vimcolors.git
+git push -u origin master
