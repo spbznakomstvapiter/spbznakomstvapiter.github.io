@@ -1,4 +1,4 @@
-# Полезные ссылки для веб-разработчика
+
 touch README.md
 git init
 git add README.md
